@@ -12,7 +12,7 @@ namespace Program
             Console.Write("Hur många meter hoppade Alma? ");
             double Alma = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Elin hoppade " + (Elin - Alma) + " meter länrge än Alma");  
+            Console.WriteLine("Elin hoppade " + (Elin - Alma) + " meter längre än Alma");  
 
         }
     }
